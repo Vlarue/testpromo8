@@ -9,7 +9,6 @@
 		echo date('d/m/Y');
 	 ?>
 	 <p style="color:red;">Bonjour Vincent comment vas-tu?
-
-	 <p>J'ai modifié l'index.php</p>
+	 <p>Deuxieme modification</p>
 </body>
 </html>
